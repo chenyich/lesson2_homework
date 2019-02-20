@@ -1,4 +1,4 @@
 x=3
-y=9
-ans=x^y
+y=1
+ans=x*10+y*20
 print(ans)
