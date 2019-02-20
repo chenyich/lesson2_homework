@@ -1,4 +1,4 @@
 x=3
-y=6
+y=9
 ans=x*y
 print(ans)
